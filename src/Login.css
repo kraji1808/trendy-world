@@ -48,7 +48,7 @@
    place-items: center;
    height: 100vh;
 flex-direction: column;
-   background-color: white;
+   background-color: wheat;
   
    
    
@@ -59,9 +59,9 @@ flex-direction: column;
    justify-content: center;
    align-items: center;
    background-color:black;
-   padding: 50px;
+   padding: 100px;
    width: 200px;
-   height: 150px;
+   height: 200px;
    
    
    
