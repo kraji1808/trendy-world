@@ -42,22 +42,23 @@ body{
  {
     opacity:0.9;
 }*/
-.parent{
+/*.parent{
+   margin-top: 40px;
    display: grid;
    place-items: center;
    height: 100vh;
 flex-direction: column;
-   background-color: skyblue;
+   background-color: white;
   
    
    
-}
+}*/
 .child{
    display: flex;
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   background-color: plum;
+   background-color:black;
    padding: 50px;
    width: 200px;
    height: 150px;
