@@ -1,5 +1,5 @@
 
-body{
+/*body{
     margin:0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display:flex;
@@ -41,8 +41,8 @@ body{
  .login-button:hover
  {
     opacity:0.9;
-}
-/*.parent{
+}*/
+.parent{
    margin-top: 40px;
    display: grid;
    place-items: center;
@@ -86,11 +86,11 @@ label{
    color:blueviolet;
    
 }
-/*input{
-   background-color: aqua;
+input{
+   background-color:white;
 
 }
 .hello{
    color: black;
    background-color: lightgreen;
-}*/
+}
