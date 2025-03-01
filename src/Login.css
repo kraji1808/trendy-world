@@ -43,12 +43,12 @@
     opacity:0.9;
 }*/
 .parent{
-   margin-top: 150px;
+   margin-top: 180px;
    display: grid;
    place-items: center;
    height: 100vh;
 flex-direction: column;
-   background-color: wheat;
+   background-color:white;
   
    
    
